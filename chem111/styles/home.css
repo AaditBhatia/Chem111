@@ -1,0 +1,58 @@
+h1{
+    font-size: 3em;
+    font-weight: lighter;
+    text-align: center;
+    padding-bottom: 2%;
+    font-family: "Sofia", sans-serif;
+}
+h2{
+    font-size: 2em;
+    font-weight: lighter;
+    font-family: "Sofia", sans-serif;
+}
+body{
+    background-color: antiquewhite;
+    border-style: dashed;
+    border-radius: 7%;
+    border-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+li {
+
+    font-size: 2em;
+    margin: 0 0 0 2em;
+}
+
+li span {
+    font-size: 0.55em;
+}
+.responsive {
+    display: block;
+    width: 40%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    text-align: right;
+  }
+  .responsivescin {
+    display:block;
+    width: 40%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    text-align:center;
+  }
+
+
+  #lecbullets{
+    font-size: 0.7em;
+    padding:1px;
+    font-family: "Trirong", sans-serif;
+  }
+  table, th, td {
+    border:1px solid black;
+  }
